@@ -1,0 +1,4 @@
+[2025-05-23 14:29:35] Ambient Light Sensor: 0 lux
+[2025-05-23 14:29:35] Air Quality Index: 50 (Good)
+[2025-05-23 14:29:35] Occupancy: 0 people, Activity: None (Confidence: 0%)
+
